@@ -1,0 +1,7 @@
+flashusdt-token-assets/
+└── assets/
+    └── blockchains/
+        └── ethereum/
+            └── assets/
+                └──0x7E43cAa66D2Ec12520FA628c537A3aB5027Cdc61/
+                    └── logo.png
