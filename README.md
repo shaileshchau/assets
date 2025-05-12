@@ -1,0 +1,2 @@
+# assets
+flash usdt logo
